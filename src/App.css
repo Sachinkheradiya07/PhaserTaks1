@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.left-panel {
+  display: inline-block;
+  width: 50%;
+  vertical-align: top;
+}
+
+.right-panel {
+  display: inline-block;
+  width: 30%;
+  vertical-align: top;
+}
+
+#phaser-game {
+  margin-top: 20px;
+}
